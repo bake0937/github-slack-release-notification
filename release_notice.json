@@ -1,0 +1,63 @@
+[
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": ""
+    }
+  },
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": ""
+    }
+  },
+  {
+    "type": "actions",
+    "block_id": "actionblock789",
+    "elements": [
+      {
+        "type": "button",
+        "text": {
+          "type": "plain_text",
+          "text": ""
+        },
+        "url": ""
+      },
+      {
+        "type": "button",
+        "text": {
+          "type": "plain_text",
+          "text": "Go Release Page"
+        },
+        "url": ""
+      }
+    ]
+  },
+  {
+    "type": "section",
+    "fields": [
+      {
+        "type": "mrkdwn",
+        "text": ""
+      },
+      {
+        "type": "mrkdwn",
+        "text": ""
+      },
+      {
+        "type": "mrkdwn",
+        "text": ""
+      },
+      {
+        "type": "mrkdwn",
+        "text": ""
+      },
+      {
+        "type": "mrkdwn",
+        "text": ""
+      }
+    ]
+  }
+]
